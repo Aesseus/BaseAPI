@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseAPIModel.Rides", "BaseAPIModel.Rides\BaseAPIModel.Rides.csproj", "{B79A5ABF-4942-4314-837B-BC16BD776437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rides", "Rides\Rides.csproj", "{88A85321-BD3F-486C-A226-568E0FE5FF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B79A5ABF-4942-4314-837B-BC16BD776437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79A5ABF-4942-4314-837B-BC16BD776437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79A5ABF-4942-4314-837B-BC16BD776437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79A5ABF-4942-4314-837B-BC16BD776437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A85321-BD3F-486C-A226-568E0FE5FF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A85321-BD3F-486C-A226-568E0FE5FF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A85321-BD3F-486C-A226-568E0FE5FF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A85321-BD3F-486C-A226-568E0FE5FF36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
