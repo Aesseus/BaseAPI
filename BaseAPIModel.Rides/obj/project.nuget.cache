@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NSZK3+8I6QDamVK0hC0MgEMhEz936OnhZSUxxQk4Li0ydIqnVaWKkJnpaI8Ikw7DRxGBrfTir1rPdLwwICOlhg==",
+  "dgSpecHash": "BWIcCqXe+yhwT1WAxZSkyqMJluiYC5CnU4adIwrHIpPlXrb8goj2Jv1cMxniWzywZW98qcKL1EcZkHXBmYObbA==",
   "success": true,
-  "projectFilePath": "F:\\projects\\BaseAPI\\BaseAPIModel.Rides\\BaseAPIModel.Rides.csproj",
+  "projectFilePath": "F:\\Projects\\BaseAPI\\BaseAPIModel.Rides\\BaseAPIModel.Rides.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

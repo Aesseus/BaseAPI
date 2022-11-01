@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BaseAPIModel.Rides": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -16,7 +16,7 @@
       "launchUrl": "swagger",
       "applicationUrl": "https://localhost:7095;http://localhost:5250",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development" // Deleting line 19 + 18 would change the Environment to Production by default.
       }
     },
     "IIS Express": {

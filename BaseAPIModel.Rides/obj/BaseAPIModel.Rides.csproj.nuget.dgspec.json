@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\projects\\BaseAPI\\BaseAPIModel.Rides\\BaseAPIModel.Rides.csproj": {}
+    "F:\\Projects\\BaseAPI\\BaseAPIModel.Rides\\BaseAPIModel.Rides.csproj": {}
   },
   "projects": {
-    "F:\\projects\\BaseAPI\\BaseAPIModel.Rides\\BaseAPIModel.Rides.csproj": {
+    "F:\\Projects\\BaseAPI\\BaseAPIModel.Rides\\BaseAPIModel.Rides.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\projects\\BaseAPI\\BaseAPIModel.Rides\\BaseAPIModel.Rides.csproj",
+        "projectUniqueName": "F:\\Projects\\BaseAPI\\BaseAPIModel.Rides\\BaseAPIModel.Rides.csproj",
         "projectName": "BaseAPIModel.Rides",
-        "projectPath": "F:\\projects\\BaseAPI\\BaseAPIModel.Rides\\BaseAPIModel.Rides.csproj",
+        "projectPath": "F:\\Projects\\BaseAPI\\BaseAPIModel.Rides\\BaseAPIModel.Rides.csproj",
         "packagesPath": "C:\\Users\\roryt\\.nuget\\packages\\",
-        "outputPath": "F:\\projects\\BaseAPI\\BaseAPIModel.Rides\\obj\\",
+        "outputPath": "F:\\Projects\\BaseAPI\\BaseAPIModel.Rides\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\IDEShared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

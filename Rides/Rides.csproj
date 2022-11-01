@@ -1,4 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Rest.ClientRuntime" Version="2.3.24" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BaseAPIModel.Rides\BaseAPIModel.Rides.csproj" />
+  </ItemGroup>
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
