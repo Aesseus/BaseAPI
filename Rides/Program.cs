@@ -1,5 +1,7 @@
 namespace Rides;
-
+/// <summary>
+/// Program begins.
+/// </summary>
 public class Program
 {
     static void Main(string[] args)
